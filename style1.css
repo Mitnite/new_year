@@ -1,0 +1,20 @@
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #2E8B57 !important;
+}
+
+.main-container {
+    margin: 50px auto;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+p {
+  font-size: 30px;
+    color: white;
+    padding: 50px;
+    text-align: justify;
+}
